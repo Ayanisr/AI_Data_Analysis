@@ -32,12 +32,13 @@ cd awesome-llm-apps/starter_ai_agents/ai_data_analysis_agent
 
 # Install dependencies
 pip install -r requirements.txt
-Configure API Keys
 
+Configure API Keys 
 Get OpenAI API key from OpenAI Platform
-Run the Application
 
+Run the Application
 streamlit run ai_data_analyst.py
+
 Usage
 Launch the application using the command above
 Provide your OpenAI API key in the sidebar of Streamlit
